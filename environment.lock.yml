@@ -1,4 +1,4 @@
-name: miniforge-devcontainer-template-frozen
+name: glom-playground-frozen
 channels:
   - conda-forge
 dependencies:
@@ -31,4 +31,4 @@ dependencies:
       - boltons==23.1.1
       - face==20.1.1
       - glom==23.5.0
-prefix: /opt/conda/envs/miniforge-devcontainer-template-frozen
+prefix: /opt/conda/envs/glom-playground-frozen
